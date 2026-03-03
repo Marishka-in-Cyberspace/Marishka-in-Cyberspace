@@ -18,7 +18,7 @@
 - 💻 Passionnée par Linux & l’automatisation
 - 🌱 En apprentissage constant : CI/CD, Docker, Cloud
 - 🎯 Objectif : évoluer vers la cybersécurité
-- 🌷 Littérature • Art • Nature • Tech minimaliste
+- 🌷 Littérature • Art • Cinéma • Tech minimaliste
 
 ---
 
@@ -65,7 +65,7 @@
   <a href="TON_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/jeyinked">
+  <a href="https://github.com/Marishka-in-Cyberspace">
     <img src="https://img.shields.io/badge/GitHub-ff1493?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
