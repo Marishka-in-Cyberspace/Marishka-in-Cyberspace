@@ -54,11 +54,11 @@
 |-----------------|-------------------------------------------|
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marishka-in-Cyberspace&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
+  <img src="STATS GIT ICI" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marishka-in-Cyberspace&layout=compact&theme=radical&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
+  <img src="STATS GIT ICI" />
 </p>
 
 ---
