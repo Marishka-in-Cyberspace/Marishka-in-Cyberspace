@@ -69,7 +69,7 @@
 |------------|-------------------------------------------|
 
 <p align="center">
-  <a href="TON_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mariana-vleju-671732371/">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Marishka-in-Cyberspace">
