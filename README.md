@@ -39,7 +39,7 @@
 
 ---
 
-|  📂 Learning Resources & Inspiration | <img src="https://44.media.tumblr.com/c927de463f4832f28e82adf923e8a38b/ab25cd5e214f8ba9-83/s1280x1920_f1/f728b35729ef58a3286caf550fefaba6c0052b54.gifv" width="200"> |
+|  📂 Learning Resources & Inspiration | <img src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif" width="200"> |
 |-----------------|-------------------------------------------|
 
 - 🔹 ADMINISTRATION_LINUX-DEVOPS  
@@ -50,15 +50,17 @@
 
 ---
 
-| 📊 GitHub Stats | <img src="TON_IMAGE_ICI.gif" width="200"> |
+| 📊 GitHub Stats | <img src="https://i.pinimg.com/originals/44/8c/59/448c59a778a31e4ee3013765c590d217.gif" width="200"> |
 |-----------------|-------------------------------------------|
 
+## 💖 My Stats
+
 <p align="center">
-  <img src="STATS GIT ICI" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marishka-in-Cyberspace&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
 </p>
 
 <p align="center">
-  <img src="STATS GIT ICI" />
+  <img src="https://streak-stats.demolab.com?user=Marishka-in-Cyberspace&theme=radical&hide_border=true" />
 </p>
 
 ---
